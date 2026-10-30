@@ -1,0 +1,10 @@
+{
+  "upstream": "https://github.com/simonlin1212/a-stock-data",
+  "fork": "https://github.com/t0mAto1104/a-stock-data",
+  "version": "3.10.3",
+  "revision": "2de3c9c4a8af46645c03ad2626cff7fc0614c484",
+  "skill_sha256": "a774151626a5389b1eaf45d5d38f83314e96826bdf20fd25057fe4ca5bb6ccb8",
+  "toujing_source": "https://github.com/t0mAto1104/toujing-fundamental-copilot",
+  "toujing_revision": "ded0ccb5649555cc313bf7373a0bd5ced409cbaf",
+  "adapter": "Independent stdlib subset; not runtime exec of upstream Markdown"
+}

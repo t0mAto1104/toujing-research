@@ -1,0 +1,15 @@
+Toujing Research
+Copyright 2026 Toujing contributors
+
+Research methods and selected adapter behavior were independently extracted
+from Toujing Fundamental Copilot V3.12.2, licensed under Apache-2.0.
+
+Includes original a-stock-data 3.10.3 instructions and source-derived examples:
+Copyright 2026 Simon Lin
+https://github.com/simonlin1212/a-stock-data
+Apache License, Version 2.0
+
+The portable Python adapters are modified implementations: standard-library
+transport, narrower endpoint coverage, bounded requests, evidence contracts,
+explicit source/identity/null handling and local workpapers. They are not an
+unmodified distribution of all upstream executable examples.

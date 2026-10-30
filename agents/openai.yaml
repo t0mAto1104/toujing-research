@@ -1,0 +1,4 @@
+interface:
+  display_name: "透镜研究 · Toujing Research"
+  short_description: "Evidence-first A-share research and financial report review"
+  default_prompt: "Use $toujing-research to research an A-share company, verify its financials and produce a sourced report."
